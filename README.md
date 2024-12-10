@@ -99,6 +99,10 @@ The ensemble model achieves the following metrics:
 - **Recall**: 0.9310344827586207
 - **F1 Score**: 0.8534954407635434
 
+- ![Home Page Screenshot](images/homePage.jpg)
+- ![Prediction Form Screenshot](images/predictionForm.jpg)
+- ![Prediction Result Screenshot](images/predictionResult.jpg)
+
 ---
 
 ## **Future Improvements**  
