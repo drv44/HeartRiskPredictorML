@@ -1,1 +1,0 @@
-data = pd.read_csv('C:/Users/drv/Downloads/heart.csv')
